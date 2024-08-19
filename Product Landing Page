@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Adjustable Dumbbells</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+
+  <body>
+    <header id="header">
+    <nav id="nav-bar">
+      <a href="#features" class="nav-link">Features</a>
+      <a href="#pricing" class="nav-link">Pricing</a>
+      <a href="#about-us" class="nav-link">About Us</a>
+    </nav>
+    
+    <img src="https://www.ritfitsports.com/cdn/shop/products/ritfit-rubber-hex-dumbbells-weight-ritfit-50-lbs-pair-121167.jpg?v=1716186166" id="header-img">
+    <h1>Adjustable Dumbbells</h1>    
+
+    
+
+    <h2>Handcrafted masterpieces</h2>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+    <label for="email">
+      <input type="email" name="email" id="email" placeholder="johndoe@gmail.com"/>
+    </label>
+    <input type="submit" id="submit" value="Get Started"/>
+    </form>
+
+    <div id="features">
+      <img>
+      <h4>Premium Materials</h4>
+      <p>Our dumbbells are made with only premium materials.</p>
+
+      <img>
+      <h4>Fast Shipping</h4>
+      <p>Our dumbbells are shipped within 3-4 business days.</p>
+    </div>
+
+    <video id ="video" width="320" height="240" autoplay muted>
+  <source src="https://youtu.be/BWTu4FZ0WRI" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+    <div id="pricing">
+      <h4>5 to 45lbs</h4>
+      <ul>
+        <li>Lorem ipsum</li>
+        <li>Lorem ipsum</li>
+        <li>Lorem ipsum</li>
+      </ul>
+      <button type="submit">Select</button>
+
+      <h4>50 to 95lbs</h4>
+      <ul>
+        <li>Lorem ipsum</li>
+        <li>Lorem ipsum</li>
+        <li>Lorem ipsum</li>
+      </ul>
+      <button type="submit">Select</button>
+    </div>
+
+    <div id="about-us">
+      <p>Some words describing how the business got started and what was the inspiration</p>
+
+    </header>
+  </body>
+
+</html>
